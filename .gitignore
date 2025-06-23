@@ -1,0 +1,12 @@
+/test
+/build
+*.mp4
+/dist
+/test
+__pycache__
+*.so
+evaluate/
+*.pkl
+*.vscode/
+ncu_report/
+fused_attn*/
