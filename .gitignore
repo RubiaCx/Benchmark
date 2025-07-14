@@ -10,3 +10,5 @@ evaluate/
 *.vscode/
 ncu_report/
 fused_attn*/
+attn/ncu_results/
+profile/ncu_results/

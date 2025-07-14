@@ -1,0 +1,7 @@
+2025-07-06 00:36:57,149 WARNING:Found kernel in memory cache. For better performance, consider using `@tilelang.autotune` instead of direct AutoTuner.from_kernel.
+2025-07-06 00:38:10,479 WARNING:Found kernel in memory cache. For better performance, consider using `@tilelang.autotune` instead of direct AutoTuner.from_kernel.
+2025-07-06 00:39:30,824 WARNING:Found kernel in memory cache. For better performance, consider using `@tilelang.autotune` instead of direct AutoTuner.from_kernel.
+2025-07-06 00:41:00,712 WARNING:Found kernel in memory cache. For better performance, consider using `@tilelang.autotune` instead of direct AutoTuner.from_kernel.
+2025-07-06 00:42:41,815 WARNING:Found kernel in memory cache. For better performance, consider using `@tilelang.autotune` instead of direct AutoTuner.from_kernel.
+2025-07-06 00:44:37,088 WARNING:Found kernel in memory cache. For better performance, consider using `@tilelang.autotune` instead of direct AutoTuner.from_kernel.
+2025-07-06 00:46:48,031 WARNING:Found kernel in memory cache. For better performance, consider using `@tilelang.autotune` instead of direct AutoTuner.from_kernel.
